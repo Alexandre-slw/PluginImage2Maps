@@ -1,0 +1,8 @@
+name: Image2Maps
+author: Alexandre
+version: 1.0.0
+main: com.alexandre.maps.Main
+
+commands:
+  map:
+  getmap:
